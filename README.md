@@ -9,4 +9,4 @@ Features:
 - Dependency Injection with Flutter Modular.
 - Routing with Modular.
 - Functional Programming with Dartz.
-- Automatizated tests using ( flutter_test, bloc_test, mocktail, dartz_test).
+- Automatizated tests using ( flutter_test, bloc_test, mocktail, dartz_test ).
