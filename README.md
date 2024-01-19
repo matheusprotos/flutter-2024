@@ -1,16 +1,12 @@
-# flutter_2024
+# Flutter 2024
 
-A new Flutter project.
+This project is an example of how I build my applications on 2024! 😄
 
-## Getting Started
+Features:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Clean Architecture with separations of ( Domain, Data, Presentation ) layers.
+- State Managment with Bloc and Cubit.
+- Dependency Injection with Flutter Modular.
+- Routing with Modular.
+- Functional Programming with Dartz.
+- Automatizated tests using ( flutter_test, bloc_test, mocktail, dartz_test).
