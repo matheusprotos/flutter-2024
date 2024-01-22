@@ -10,3 +10,4 @@ Features:
 - Routing with Modular.
 - Functional Programming with Dartz.
 - Automatizated tests using ( flutter_test, bloc_test, mocktail, dartz_test ).
+- Integration tests using ( integration_test ).
